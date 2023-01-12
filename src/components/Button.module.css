@@ -1,0 +1,23 @@
+.style1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    padding-top: 100px;
+    color: darkblue;
+}
+
+.style2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    padding-top: 100px;
+
+}
+.color{
+    color: wheat;
+    background-color: #a90505;
+    width: 170px;
+    height: 70px;
+    border-radius: 50%;
+    border-color: #a90505;
+}
